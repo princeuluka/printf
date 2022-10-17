@@ -64,20 +64,3 @@ This produces output according to a format specifiers,as shown below.
   
   
 	_printf("Unknown:[%r]\n");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-It is developed by **Emmanuel** and **Alfaxad** from **ALX cohort 0.**
